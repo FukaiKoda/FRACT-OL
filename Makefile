@@ -2,7 +2,7 @@ CC = cc
 
 CFLAGS = -Wall -Wextra -Werror -I .
 
-MLX_FLAGS = -L/home/habdella/include/minilibx-linux -lmlx -lXext -lX11 -lm
+MLX_FLAGS = -Lminilibx-linux -lmlx -lXext -lX11 -lm
 
 RM = rm -rf
 
