@@ -13,7 +13,7 @@
 #ifndef FRACTOL_H
 # define FRACTOL_H
 
-# include "/home/habdella/include/minilibx-linux/mlx.h"
+# include "minilibx-linux/mlx.h"
 # include <unistd.h>
 # include <stdlib.h>
 # include <math.h>
